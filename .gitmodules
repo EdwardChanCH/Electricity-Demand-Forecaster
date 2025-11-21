@@ -1,3 +1,4 @@
-[submodule "FeatBoost"]
-	path = FeatBoost
-	url = git@github.com:amjams/FeatBoost.git
+[submodule "FeatBoost-Fork"]
+	path = FeatBoost-Fork
+	url = git@github.com:EdwardChanCH/FeatBoost-Fork.git
+	branch = master
