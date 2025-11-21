@@ -1,0 +1,3 @@
+[submodule "FeatBoost"]
+	path = FeatBoost
+	url = git@github.com:amjams/FeatBoost.git
