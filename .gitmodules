@@ -1,0 +1,4 @@
+[submodule "FeatBoost-Fork"]
+	path = FeatBoost-Fork
+	url = git@github.com:EdwardChanCH/FeatBoost-Fork.git
+	branch = master
