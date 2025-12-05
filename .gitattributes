@@ -1,0 +1,2 @@
+*.[Cc][Ss][Vv] filter=lfs diff=lfs merge=lfs -text
+*.[Xx][Ll][Ss][Xx] filter=lfs diff=lfs merge=lfs -text
